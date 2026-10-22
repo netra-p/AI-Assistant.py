@@ -1,5 +1,4 @@
-# Voice Assistant (Jarvis-style) in Python
-
+# AI-Assistant.py
 A voice-controlled desktop assistant built in Python. Say the wake word, then give a command: it can open websites, play songs from a custom music library, read out the latest news headlines, and answer general questions through an AI chat model.
 
 ## Features
